@@ -1,4 +1,4 @@
-# Recommendation-system-based-on-Nonnegative-Matrix-Factorization
+# Recommendation-System-based-on-Nonnegative-Matrix-Factorization
 
 ## Goal:
  To recommend the movies that user might want to watch.
@@ -67,8 +67,8 @@ Gradient descent is a first-order iterative optimization algorithm for finding a
 
 ## Conclusion
 
-- In this project we are trying to find the movies that we can recommend to user as per their interest. By using Matrix Factorization and some of the variate of Gradient Descent we able to do so.
-- In our project Swarm optimisation works so well that it minimises the error to 0.87.
+- In this project, we are trying to find the movies that we can recommend to user as per their interest. By using Matrix Factorization and some of the variate of Gradient Descent we able to do so.
+- In our project Swarm optimization works so well that it minimises the error to 0.87.
 
 
 
