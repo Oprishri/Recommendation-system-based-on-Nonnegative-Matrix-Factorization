@@ -53,14 +53,17 @@ Optimization techniques used in Gradient descent
  <p align="center">
  <img src="https://i.stack.imgur.com/8qNaM.png" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
  </p>
+ 
 - Sliding Window Gradient descent
  <p align="center">
  <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/sliding%20window.PNG" alt="netflix" width="600"  height="300" style="vertical-align:top; margin:10px">
  </p>
+ 
 - Line Search Gradient descent
  <p align="center">
  <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/line%20search.PNG" alt="netflix" width="600"  height="300" style="vertical-align:top; margin:10px">
  </p>
+ 
 - Particle Swarm Optimization(PSO) Gradient descent
  <p align="center">
  <img src="https://static-01.hindawi.com/articles/ijap/volume-2013/649049/figures/649049.fig.003.jpg"  width="600" height="300" style="vertical-align:top; margin:10px">
