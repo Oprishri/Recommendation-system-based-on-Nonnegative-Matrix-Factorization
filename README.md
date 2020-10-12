@@ -25,10 +25,13 @@ Movie lens Dataset consists of :b100000 ratings (1 lakh) , 600 users
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/factorization.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 <p>
+ 
+Where
 -  R (users,movies) 
 -  U (users,d)
 -  VT (d,movies)
 -  here d is number of latent features 
+<p>
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
