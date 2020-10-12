@@ -24,7 +24,7 @@ Movie lens Dataset consists of :b100000 ratings (1 lakh) , 600 users
 -  here d is number of latent features 
 ## Prediction of rating of movies using gradient descent algorithm.
 
-##Gradient descent
+### Gradient descent
   Optimization techniques used in Gradient descent
   - Regularized Gradient descent
   - Sliding Window Gradient descent
