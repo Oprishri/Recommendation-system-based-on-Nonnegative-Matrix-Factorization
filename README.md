@@ -24,13 +24,12 @@ Movie lens Dataset consists of :b100000 ratings (1 lakh) , 600 users
 <p align="center">
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/factorization.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
-<p>
  
 Where,
 -  R (users,movies) 
 -  U (users,d)
 -  VT (d,movies)
--  here d is number of latent features 
+Here, d is the number of latent features.
 ## Cost Function
 <p>
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/cf1.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px"> <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
@@ -39,10 +38,19 @@ Where,
 ## Prediction of rating of movies using gradient descent algorithm.
 
 ### Gradient descent
+Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function. To find a local minimum of a function using gradient descent, we take steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point.
+
   Optimization techniques used in Gradient descent
   - Regularized Gradient descent
   - Sliding Window Gradient descent
   - Line Search Gradient descent
   - Particle Swarm Optimization(PSO) Gradient descent
+ 
+ ## Results :
+ Root Mean Squre Error (RMSE)
+<p align="center">
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/results.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
+</p>
+ 
 
 
