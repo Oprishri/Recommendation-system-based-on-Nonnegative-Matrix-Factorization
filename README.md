@@ -44,7 +44,7 @@ Here, d is the number of latent features.
 ### Gradient descent
 Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function. To find a local minimum of a function using gradient descent, we take steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point.
 <p align="center">
-<img src=https://miro.medium.com/max/1000/0*ZppAJQdr9FnrnrGG.jpg" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
+<img src="https://miro.medium.com/max/1000/0*ZppAJQdr9FnrnrGG.jpg" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
   Optimization techniques used in Gradient descent
