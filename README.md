@@ -65,4 +65,10 @@ Gradient descent is a first-order iterative optimization algorithm for finding a
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/re2.PNG" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
+## Conclusion
+
+- In this project we are trying to find the movies that we can recommend to user as per their interest. By using Matrix Factorization and some of the variate of Gradient Descent we able to do so.
+- In our project Swarm optimisation works so well that it minimises the error to 0.87.
+
+
 
