@@ -35,7 +35,7 @@ Here, d is the number of latent features.
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/cf1.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
-<p>
+<p align="center">
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
