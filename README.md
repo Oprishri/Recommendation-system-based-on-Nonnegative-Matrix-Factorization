@@ -32,7 +32,10 @@ Where,
 Here, d is the number of latent features.
 ## Cost Function
 <p>
-<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/cf1.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px"> <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/cf1.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
+</p>
+<p>
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
 ## Prediction of rating of movies using gradient descent algorithm.
@@ -47,10 +50,18 @@ Gradient descent is a first-order iterative optimization algorithm for finding a
   - Particle Swarm Optimization(PSO) Gradient descent
  
  ## Results :
- Root Mean Squre Error (RMSE)
+ ### Root Mean Square Error (RMSE)
 <p align="center">
 <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/results.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
  
+### Results (Recommendations): 
+
+<p align="center">
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/re1.PNG" width="600" height="300" style="vertical-align:top; margin:10px">
+</p>
+<p align="center">
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/re2.PNG" width="600" height="300" style="vertical-align:top; margin:10px">
+</p>
 
 
