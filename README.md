@@ -26,13 +26,14 @@ Movie lens Dataset consists of :b100000 ratings (1 lakh) , 600 users
 </p>
 <p>
  
-Where
+Where,
 -  R (users,movies) 
 -  U (users,d)
 -  VT (d,movies)
 -  here d is number of latent features 
+## Cost Function
 <p>
-<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
+<img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/cf1.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px"> <img src="https://github.com/Oprishri/Recommendation-system-based-on-Nonnegative-Matrix-Factorization/blob/master/images/costfunc.PNG" alt="netflix" width="600" height="300" style="vertical-align:top; margin:10px">
 </p>
 
 ## Prediction of rating of movies using gradient descent algorithm.
