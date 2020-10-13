@@ -1,4 +1,8 @@
 # Recommendation-System-based-on-Nonnegative-Matrix-Factorization
+## Project Partner:
+
+- Name: Pawan Bisht
+- Github: : https://github.com/Pawan300
 
 ## Goal:
  To recommend the movies that user might want to watch.
